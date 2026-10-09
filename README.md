@@ -1,6 +1,6 @@
 # Hello world
 
-This is a **practice** repository for class.
+This is a repository for class.
 
 ## Files
 - `hello_world.py` - prints *Hello, World!*
